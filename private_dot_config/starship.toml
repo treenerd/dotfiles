@@ -14,12 +14,10 @@ $git_commit\
 $terraform\
 $kubernetes\
 $docker_context\
-$aws\
 $python\
 $nodejs\
 $rust\
 $golang\
-$java\
 $helm\
 $package
 $character"""
