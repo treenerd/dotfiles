@@ -1,0 +1,22 @@
+# Chezmoi ignore file
+# Files and directories listed here will not be copied to the destination
+
+# Documentation
+README.md
+LICENSE
+docs/
+
+# Version control
+.git/
+.gitignore
+
+# Editor and IDE
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.log
