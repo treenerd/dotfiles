@@ -3,7 +3,8 @@
 
 # Global settings
 format = """
-$os\
+[░▒▓](#73BA33)\
+[ \uef6d ](bg:#73BA33 fg:#090c0c)\
 $username\
 $hostname\
 $directory\
