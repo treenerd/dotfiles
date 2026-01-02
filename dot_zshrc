@@ -4,10 +4,6 @@
 # Otherwise start tmux
 [[ -z "$TMUX" ]] && exec tmux
 
-# Lines configured by zsh-newuser-install
-HISTFILE=~/.histfile
-HISTSIZE=10000
-SAVEHIST=10000
 bindkey -v
 DISABLE_AUTO_UPDATE="true"
 
