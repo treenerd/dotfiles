@@ -22,20 +22,11 @@ config.colors = {
 config.font = wezterm.font("Hack Nerd Font")
 config.font_size = 10
 
-config.enable_tab_bar = false
-
 config.window_decorations = "RESIZE"
 -- config.window_background_opacity = 0.8
 
 -- Disable tab bar (using tmux)
 config.enable_tab_bar = false
-
--- Default Shell
-config.default_prog = {
-  "/usr/bin/zsh",
-  "-l",
-  "-c",
-}
 
 -- and finally, return the configuration to wezterm
 return config
