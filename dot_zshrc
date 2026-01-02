@@ -4,7 +4,6 @@
 # Otherwise start tmux
 [[ -z "$TMUX" ]] && exec tmux
 
-bindkey -v
 DISABLE_AUTO_UPDATE="true"
 
 # export MANPATH="/usr/local/man:$MANPATH"
